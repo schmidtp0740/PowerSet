@@ -1,0 +1,6 @@
+C:\Projects\PowerSet Solution\PowerSet\bin\Debug\PowerSet.exe.config
+C:\Projects\PowerSet Solution\PowerSet\bin\Debug\PowerSet.exe
+C:\Projects\PowerSet Solution\PowerSet\bin\Debug\PowerSet.pdb
+C:\Projects\PowerSet Solution\PowerSet\obj\Debug\PowerSet.csprojResolveAssemblyReference.cache
+C:\Projects\PowerSet Solution\PowerSet\obj\Debug\PowerSet.exe
+C:\Projects\PowerSet Solution\PowerSet\obj\Debug\PowerSet.pdb
